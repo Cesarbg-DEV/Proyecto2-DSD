@@ -1,0 +1,18 @@
+{
+  "name": "proyecto2-dsd",
+  "version": "1.0.0",
+  "description": "Proyecto no.2 para la clase de Desarrollo de Sistemas Distribuidos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Equipo no.4 //César, Imanol,Julio,Mónica,Gilberto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
